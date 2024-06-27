@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MoneyMind</string>
+    <string name="text_save_transaction">Save Transaction</string>
+    <string name="text_ui_mode">UI Mode</string>
+    <string name="text_total_income">Earnings</string>
+    <string name="text_total_expense">Expenses</string>
+    <string name="text_total_balance">Balance</string>
+    <string name="text_recent_transactions">Previous Transactions</string>
+    <string name="text_view_all">View all</string>
+    <string name="text_expense_when">Time </string>
+    <string name="text_expense_amount">Amount</string>
+    <string name="text_expense_transaction_type">Type of Transaction</string>
+    <string name="text_expense_tag">Tags</string>
+    <string name="text_expense_note">About</string>
+    <string name="text_expense_add_transaction">Save Transaction</string>
+    <string name="text_expense_rupees">₹</string>
+    <string name="success_expense_saved">Yayy!! Transaction saved successfully</string>
+    <string name="success_transaction_delete">Oops!! Transaction deleted successfully!</string>
+    <string name="text_title">Name</string>
+    <string name="text_about">Know More</string>
+    <string name="text_filter">Filter</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_createdAt">Created At</string>
+
+    <!--  Share -->
+    <string name="success_transaction_export">Transaction exported successfully!</string>
+    <string name="failed_transaction_export">Transaction exported unsuccessful ☹️</string>
+    <string name="text_error">Transaction exported unsuccessful ☹️</string>
+    <string name="support_pending"></string>
+    <string name="text_open">Open</string>
+
+    <!--  About -->
+    <string name="text_about_license_title"></string>
+    <string name="text_about_license">There are no easter eggs here</string>
+    <string name="text_about_visit_title"></string>
+    <string name="text_about_visit_url"><u></u></string>
+    <string name="text_app_version">v%s (%d)</string>
+    <string name="text_share_as_text">Share as Text</string>
+    <string name="text_share_as_image">Share as Image</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_share">Share</string>
+
+    <!-- share transaction -->
+    <string name="share_message">\%s \nAmount: %s, \nTransaction-Type: %s, \nTag: %s, \nDate: %s, \nNote: %s, \nCreatedAt: %s \n\nVisit: https://github.com/Spikeysanju/Expenso</string>
+    <string name="text_transaction_empty_title">Nothing Here</string>
+    <string name="text_transaction_empty_desc">Start by Making a Transaction</string>
+    <string name="text_export_csv">Export as CSV</string>
+    <string name="text_add_transaction">Add Transaction</string>
+    <string name="text_undo">Undo</string>
+    <string name="text_error_occurred">Error occurred!</string>
+
+</resources>

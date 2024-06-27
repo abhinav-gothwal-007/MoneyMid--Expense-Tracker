@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_500">#4F9BFF</color>
+    <color name="white">#FF000000</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="surface">#000000</color>
+    <color name="background">#000000</color>
+    <color name="income">#00FF6A</color>
+    <color name="expense">#FF0000</color>
+</resources>
