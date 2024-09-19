@@ -81,7 +81,7 @@ dependencies {
 
     // Coroutine Lifecycle Scopes
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.6")
 
     // Navigation Components
     implementation("androidx.navigation:navigation-fragment-ktx:2.4.0")
